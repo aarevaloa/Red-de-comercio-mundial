@@ -7,7 +7,7 @@ El archivo, se compone por dos carpetas, tituladas:
 - Initial_data_all_countrys: Contiene los datos de las importaciones y exportaciones bilaterales para los años 2018, 2020 y 2022 extraídas del WITS.
 - P_Data_Extract_From_World_Development_Indicators: Contiene los datos de los atributos nodales empleados en el estudio para los años 2018, 2020 y 2022 extraídos de la base de datos de Indicadores de Desarrollo del Banco Mundial.
 - Cualitative_variables: Contiene los datos de los atributos nodales empleados en el estudio para los años 2018, 2020 y 2022 extraídos de la base de datos del CEPII.
-- country_codes: Contiene los códigos ISO3 de los países reconocidos de por la ONU.
+- country_codes: Contiene los códigos ISO3 de los países reconocidos por la ONU.
 
 ## 2). Códigos: Esta carpeta contiene los códigos de rStudio empleados en el artículo; para reproducción y réplica de los resultados, ejecútese los scripts en el orden expuesto a continuación: 
 - Datos_estadisticas_redes_2018_2020_2022: Este script realiza la depuración y manipulación de datos necesaria para la posterior ejecución de los modelos y metodologías. Adicionalmente, este script contiene los códigos empleados para el cálculo de las estadísticas de la red y la elaboración de los grafos.
