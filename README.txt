@@ -1,7 +1,4 @@
-# Red-de-comercio-mundial
-Caracterización de la red de comercio mundial y sus determinantes mediante el análisis de las características estructurales, un modelo de grafos aleatorios exponenciales (ERGM) y un modelo de Bloques estocásticos (EBM).
-
-## La red de comercio internacional y sus determinantes: Un análisis del impacto de la pandemia de COVID-19 desde la perspectiva de datos relacionales.
+# La red de comercio internacional y sus determinantes: Un análisis del impacto de la pandemia de COVID-19 desde la perspectiva de datos relacionales 
 
 El archivo ZIP contiene las bases de datos y los códigos de rStudio necesarios para reproducir o replicar los resultados obtenidos en el artículo.
 El archivo, se compone por dos carpetas, tituladas: 
@@ -21,4 +18,3 @@ El archivo, se compone por dos carpetas, tituladas:
 		(ii)  Modelo_ERGM_redes_2018_2020_2022: Contiene el código empleado para el ajuste del modelo ERGM. De igual forma, este script almacena los
 		      códigos empleados para las simulaciones y el cálculo de la bondad de ajuste.
 		(iii) Modelo_Bloques_estocasticos_2018_2020_2022: Contiene el código empleado para el ajuste del modelo de bloques estocásticos (SBM).
-iales (ERGM) y un modelo de Bloques estocásticos (EBM).
